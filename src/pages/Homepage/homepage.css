@@ -1,0 +1,30 @@
+/* Custom Carousel Class */
+.custom-carousel {
+    /* Set the height to 400px */
+    height: 500px;
+  }
+  
+  /* Custom Slide Class */
+  .custom-slide {
+    /* Center the content vertically within the slide */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Image Height Class */
+  .h-400 {
+    /* Set the height to 400px */
+    height: 500px;
+  }
+  /* Custom CSS for smooth scrolling */
+.scroll-smooth {
+    transition: all 1s ease-in-out;
+  }
+  
+  .scroll-smooth:hover {
+    transform: scale(1.05);
+  }
+  
