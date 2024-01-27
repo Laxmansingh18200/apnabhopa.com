@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/apnabhopal.com/static/css/main.07972909.css",
+    "main.js": "/apnabhopal.com/static/js/main.c22266d6.js",
+    "static/js/583.cc4218a6.chunk.js": "/apnabhopal.com/static/js/583.cc4218a6.chunk.js",
+    "static/js/233.ad4b6ecf.chunk.js": "/apnabhopal.com/static/js/233.ad4b6ecf.chunk.js",
+    "static/js/267.8a3f8cd9.chunk.js": "/apnabhopal.com/static/js/267.8a3f8cd9.chunk.js",
+    "static/js/666.9215264f.chunk.js": "/apnabhopal.com/static/js/666.9215264f.chunk.js",
+    "static/js/240.5a34dd1c.chunk.js": "/apnabhopal.com/static/js/240.5a34dd1c.chunk.js",
+    "static/js/357.6ac51891.chunk.js": "/apnabhopal.com/static/js/357.6ac51891.chunk.js",
+    "static/js/822.3399dec3.chunk.js": "/apnabhopal.com/static/js/822.3399dec3.chunk.js",
+    "static/css/170.00cc71bf.chunk.css": "/apnabhopal.com/static/css/170.00cc71bf.chunk.css",
+    "static/js/170.951fc70a.chunk.js": "/apnabhopal.com/static/js/170.951fc70a.chunk.js",
+    "static/js/302.29ea0783.chunk.js": "/apnabhopal.com/static/js/302.29ea0783.chunk.js",
+    "static/media/InterBold.ttf": "/apnabhopal.com/static/media/InterBold.88fa7ae373b07b41ecce.ttf",
+    "static/media/InterSemiBold.ttf": "/apnabhopal.com/static/media/InterSemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/InterRegular.ttf": "/apnabhopal.com/static/media/InterRegular.e89cb19905e7db5591b0.ttf",
+    "static/media/PoppinsRegular.ttf": "/apnabhopal.com/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/apnabhopal.com/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/apnabhopal.com/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/PoppinsBold.ttf": "/apnabhopal.com/static/media/PoppinsBold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/apnabhopal.com/index.html",
+    "main.07972909.css.map": "/apnabhopal.com/static/css/main.07972909.css.map",
+    "main.c22266d6.js.map": "/apnabhopal.com/static/js/main.c22266d6.js.map",
+    "583.cc4218a6.chunk.js.map": "/apnabhopal.com/static/js/583.cc4218a6.chunk.js.map",
+    "233.ad4b6ecf.chunk.js.map": "/apnabhopal.com/static/js/233.ad4b6ecf.chunk.js.map",
+    "267.8a3f8cd9.chunk.js.map": "/apnabhopal.com/static/js/267.8a3f8cd9.chunk.js.map",
+    "666.9215264f.chunk.js.map": "/apnabhopal.com/static/js/666.9215264f.chunk.js.map",
+    "240.5a34dd1c.chunk.js.map": "/apnabhopal.com/static/js/240.5a34dd1c.chunk.js.map",
+    "357.6ac51891.chunk.js.map": "/apnabhopal.com/static/js/357.6ac51891.chunk.js.map",
+    "822.3399dec3.chunk.js.map": "/apnabhopal.com/static/js/822.3399dec3.chunk.js.map",
+    "170.00cc71bf.chunk.css.map": "/apnabhopal.com/static/css/170.00cc71bf.chunk.css.map",
+    "170.951fc70a.chunk.js.map": "/apnabhopal.com/static/js/170.951fc70a.chunk.js.map",
+    "302.29ea0783.chunk.js.map": "/apnabhopal.com/static/js/302.29ea0783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07972909.css",
+    "static/js/main.c22266d6.js"
+  ]
+}
